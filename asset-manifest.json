@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.d557d176.css",
+    "main.js": "/React/static/js/main.36d908e3.js",
+    "static/media/vijay1.jpg": "/React/static/media/vijay1.bd1f676cc9b300d0280c.jpg",
+    "static/media/vijay5.jpg": "/React/static/media/vijay5.64f1d7208f301a3d6d29.jpg",
+    "static/media/vijay7.avif": "/React/static/media/vijay7.15191949f191b9e9f7e2.avif",
+    "static/media/vijay6.jpg": "/React/static/media/vijay6.3df20c888309b819fd04.jpg",
+    "static/media/vijay3.jpg": "/React/static/media/vijay3.3796d87ae0183fc908c5.jpg",
+    "static/media/vijay8.jpg": "/React/static/media/vijay8.2d341bffbcc4a0075676.jpg",
+    "static/media/thalapathylogo.jpg": "/React/static/media/thalapathylogo.1f556df07f8d9b703401.jpg",
+    "static/media/vijay2.jpg": "/React/static/media/vijay2.c4b8e0fc313b015884e8.jpg",
+    "static/media/vijay4.jpg": "/React/static/media/vijay4.06d76e9531e6a93da9d1.jpg",
+    "index.html": "/React/index.html",
+    "main.d557d176.css.map": "/React/static/css/main.d557d176.css.map",
+    "main.36d908e3.js.map": "/React/static/js/main.36d908e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d557d176.css",
+    "static/js/main.36d908e3.js"
+  ]
+}
